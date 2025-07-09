@@ -31,7 +31,11 @@ openfile
 ### Constants
 
 magic1 0xdd05
+
 magic2 0xaa55
+
 inodesperblock 16
+
 ptrperinode 8
+
 ptrperblock 256
